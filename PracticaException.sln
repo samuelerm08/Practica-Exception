@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticaException.Core", "PracticaException.Core\PracticaException.Core.csproj", "{047815AA-725E-4D55-9C10-D6C5038E9153}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticaException.App", "PracticaException.App\PracticaException.App.csproj", "{0CF453A6-40D8-414C-8FA2-4C078358C8AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{047815AA-725E-4D55-9C10-D6C5038E9153}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{047815AA-725E-4D55-9C10-D6C5038E9153}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{047815AA-725E-4D55-9C10-D6C5038E9153}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{047815AA-725E-4D55-9C10-D6C5038E9153}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CF453A6-40D8-414C-8FA2-4C078358C8AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CF453A6-40D8-414C-8FA2-4C078358C8AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CF453A6-40D8-414C-8FA2-4C078358C8AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CF453A6-40D8-414C-8FA2-4C078358C8AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAF9A0BC-8347-4F31-BC5A-39DE59BA775D}
+	EndGlobalSection
+EndGlobal
