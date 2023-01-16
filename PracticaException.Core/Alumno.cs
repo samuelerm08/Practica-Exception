@@ -22,7 +22,7 @@ namespace PracticaException.Core
                     throw new Exception("El nombre no puede estar vacío o superar los 50 carácteres");
                 }
 
-                nombre = value;
+                nombre = value.Trim();
             }
         }
     }
